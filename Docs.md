@@ -1,0 +1,2 @@
+- node -v
+- npm create vite@latest
